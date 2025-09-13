@@ -1,4 +1,4 @@
-/* ===== Noite Urbana — Dark & Cozy Architecture Blog Theme ===== */
+/* ===== Dark & Cozy Architecture Blog Theme ===== */
 :root {
   --bg: #0f0f10;
   --bg-elev: #171718;
@@ -187,15 +187,4 @@ main {
   flex-direction: column;
   align-items: center; /* centraliza os blocos */
   gap: 1rem;
-}
-
-/* ===== Utilities ===== */
-.rounded {
-  border-radius: var(--radius);
-}
-.text-muted {
-  color: var(--muted);
-}
-.text-accent {
-  color: var(--accent);
 }
